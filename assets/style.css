@@ -1,6 +1,4 @@
-/* ---------------------- */
 /* RESET Y VARIABLES      */
-/* ---------------------- */
 
 *,
 *::before,
@@ -148,3 +146,4 @@ blockquote {
   color: var(--muted);  /* Gris suave */
   font-size: .9rem; /* Texto pequeño */
 }
+
